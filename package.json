@@ -1,0 +1,26 @@
+{
+  "name": "weather-api",
+  "version": "1.0.0",
+  "description": "its a weather api app",
+  "main": "first-request.js",
+  "dependencies": {
+    "request": "^2.88.0"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/abdullahi001/weather-api.git"
+  },
+  "keywords": [
+    "weatherapi"
+  ],
+  "author": "abdullahi musa",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/abdullahi001/weather-api/issues"
+  },
+  "homepage": "https://github.com/abdullahi001/weather-api#readme"
+}
